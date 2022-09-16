@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h1 align='center'>Hi there 👋🏾 </h1>
 
-<p align='center'>I am a Software Developer using Flutter💙 and Javascript💛.</p>
-<p align='center'>I am also a Python enthusiast and PHP advocate.</p>
+<p align='center'>I am a Software Developer using Flutter💙 and Typescript💙.</p>
+<p align='center'>I am also a Golang enthusiast and PHP advocate.</p>
 
 
 <!--
