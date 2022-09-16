@@ -10,6 +10,12 @@
 <p align='center'> 🌱 I’m currently learning <strong>Golang</strong> </p>
 <p align='center'> 😄 Pronouns: He/Him  </p>
 
+[![Geeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geekygeeky&show_icons=true&theme=tokyonight)](https://github.com/Geekygeeky/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight)
+
+
 <!--
 **GeekyGeeky/GeekyGeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
