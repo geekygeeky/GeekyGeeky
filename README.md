@@ -1,8 +1,8 @@
 ### Hi there welcome to my space 👋
 <h1 align='center'>I'm Geeky Geeky 🤓 </h1>
 
-<p align='center'>I am a Software Engineer using Golang 💙 and Typescript 💙.</p>
-<p align='center'>PHP advocate 👉🏼👈🏼 / building mobile applications with Flutter ✨. </p>
+<p align='center'>Software Engineer using Typescript, Dart and Golang 💙.</p>
+<p align='center'>PHP advocate 👉🏼👈🏼 / Exploring Web3 ✨. </p>
 
 <p align='center'>
  <img src="https://gpvc.arturio.dev/geekygeeky" />
