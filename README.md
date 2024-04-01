@@ -14,7 +14,7 @@
 
 * Twitter: [@sholaphp](https://twitter.com/sholaphp)
 
-* LinkedIn: [Toby Olushola](https://linkedin.com/in/toby-olushola-1266a7246)
+* LinkedIn: [Olushola O.](https://linkedin.com/in/geeky-geeky)
 <hr/>
 
 [![Geeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geekygeeky&show_icons=true&theme=merko&card_width=100)](https://github.com/Geekygeeky/github-readme-stats)
