@@ -1,26 +1,30 @@
 ### Hi there welcome to my space 👋
-<h1 align='center'>I'm Geeky Geeky 🤓 </h1>
 
-<p align='center'>Software Engineer using Typescript, Dart and Golang 💙.</p>
-<p align='center'>PHP advocate 👉🏼👈🏼 / Exploring Web3 ✨. </p>
+<p>
+I'm a versatile software engineer with a passion for crafting exceptional digital experiences. With a robust background spanning backend, frontend, and mobile development, I thrive on bringing innovative ideas to life through code.
 
-<p align='center'>
- <img src="https://gpvc.arturio.dev/geekygeeky" />
+🛠️ As a seasoned technical writer, I excel in distilling complex technical concepts into clear, accessible documentation. Specializing in API documentation and software documentation, I ensure seamless integration and user-friendly interfaces for developers and end-users alike.
+
+💼 My industry experience extends across fintech and ecommerce, where I've had the privilege of contributing to cutting-edge solutions that drive business growth and enhance user satisfaction.
 </p>
-<p align='center'> 🌱 I’m currently learning <strong>Golang</strong> </p>
-<p align='center'> 😄 Pronouns: He/Him  </p>
 
-📫 How to reach me:
-
-* Twitter: [@sholaphp](https://twitter.com/sholaphp)
-
-* LinkedIn: [Olushola O.](https://linkedin.com/in/geeky-geeky)
+<!-- 📫 How to reach me:
+- [**LinkedIn**](https://www.linkedin.com/in/devwraithe)
+- [**Twitter**](https://www.twitter.com/devwraithe) -->
 <hr/>
 
-[![Geeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geekygeeky&show_icons=true&theme=merko&card_width=100)](https://github.com/Geekygeeky/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) 
+## GitHub Statistics
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko" alt="Geeky's Github Stats"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight)
+
+
+## Connect with me
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/techytoby/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
 <!--
