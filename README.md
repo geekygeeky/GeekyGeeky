@@ -11,9 +11,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 ## More about me
 - 📆 Over five (5) years of experience creating software solutions
 - 🔭 Polyglot
-- 🌱 Exploring the world of Artificial Intelligence & WEB3 💙
+- 🌱 Exploring the world of Artificial Intelligence & Web3 💙
 - 🎉 Fun fact - I love listening to music, reading books & playing Table Tennis.
-- 📫 Get in touch with me via [**LinkedIn**](https://www.linkedin.com/in/geekygeeky), or [**Twitter**](https://www.twitter.com/techytoby)
+- 📫 Get in touch with me via [**LinkedIn**](https://www.linkedin.com/in/geekygeeky) or [**Twitter**](https://www.twitter.com/techytoby)
 
 
 <!-- 📫 How to reach me:
