@@ -8,6 +8,14 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 💼 My industry experience extends across fintech and e-commerce, where I've had the privilege of contributing to cutting-edge solutions that drive business growth and enhance user satisfaction.
 </p>
 
+## More about me
+- 📆 Over five (5) years of experience creating software solutions
+- 🔭 Polyglot
+- 🌱 Exploring the world of Artificial Intelligence & WEB3 💙
+- 🎉 Fun fact - I love listening to music, reading books & playing Table Tennis.
+- 📫 Get in touch with me via [**LinkedIn**](https://www.linkedin.com/in/geekygeeky), or [**Twitter**](https://www.twitter.com/techytoby)
+
+
 <!-- 📫 How to reach me:
 - [**LinkedIn**](https://www.linkedin.com/in/devwraithe)
 - [**Twitter**](https://www.twitter.com/devwraithe) -->
