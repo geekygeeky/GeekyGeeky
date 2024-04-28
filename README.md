@@ -24,7 +24,8 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 ## GitHub Statistics
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko" alt="Geeky's Github Stats"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/>
+	 <img width="46%" src="https://streak-stats.demolab.com?user=Geekygeeky&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
 </div>
 
 ## Professional Projects
@@ -48,9 +49,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	</td>
 	<td>
 	  <div>
-	     <a href="https://app.utopiepay.com" target="_blank">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
+	      <a href="https://utopiepay.com">
+  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
+	      </a> 
 	  </div>
 	</td>
     </tr>
@@ -67,9 +68,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	</td>
 	<td>
 	  <div>
- 	      <a href="https://usepact.one">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
+	      <a href="https://usepact.one">
+  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
+	      </a> 
 	  </div>
 	</td>
     </tr>	  
@@ -87,8 +88,8 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	<td>
 	  <div>
  	      <a href="https://www.tractrac.co/">
-  	      <p><b>🔗 Visit the website</b></p>
-	      </a>
+  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
+	      </a> 
 	  </div>
 	</td>
     </tr>
