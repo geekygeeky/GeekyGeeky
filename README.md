@@ -33,7 +33,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 ## Professional Projects
 <table>
 <!-- Projects -->
-  <body height="300%">
+  <tbody height="300%">
     <!-- UtopiePay -->
     <tr>
 	<td>
@@ -93,7 +93,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
   <tbody height="300%">
     <tr>
 	<th>Description</th>
-	<th width="35%">Links</th>
+	<th width="30%">Links</th>
     </tr>
     <!-- Figfinder -->
     <tr>
