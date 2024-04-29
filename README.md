@@ -99,40 +99,6 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 
 ## Open Source Projects
-
-<div>
-	 <div>
-	      <a href="https://github.com/geekygeeky/figfinder">
-  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
-  	      </a>
-	  </div>
-	<h4>Key Features</h4>
-	<ul>
-		<li>Search for texts across Figma pages</li>
-		<li>FInd components on the Figma Board</li>
-	</ul>
-	<a href="https://github.com/geekygeeky/figfinder">
-	    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
-	</a>
-</div>
-
-<div>
-	 <div>
-	      <a href="https://github.com/geekygeeky/figfinder">
-  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
-  	      </a>
-	  </div>
-	<h4>Key Features</h4>
-	<ul>
-		<li>Search for texts across Figma pages</li>
-		<li>FInd components on the Figma Board</li>
-	</ul>
-	<a href="https://github.com/geekygeeky/figfinder">
-	    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
-	</a>
-</div>
-
-     
 <table>
   <tbody height="300%">
     <tr>
