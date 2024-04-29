@@ -44,9 +44,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	    <div>
 		<h3>Utopie Pay</h3>
 		<p>Utopie Technologies provides financial services to the unbanked and underbanked beyond borders with our Dollar & Naira-based debit card and e-wallet.</p>
-		<p>- <b>Role - </b> Frontend Web Engineer, React</p>
-		<p>- <b>Timeframe - </b>📆 November 2023 - February 2024</p>
-		<p>- <b>Tools - </b>🛠️ React, TypeScript, Redux</p>
+		<p><b>Role: </b> Frontend Web Engineer, React</p>
+		<p><b>Timeframe: </b>📆 November 2023 - February 2024</p>
+		<p><b>Tools: </b>🛠️ React, TypeScript, Redux</p>
 	    </div>
 	</td>
 	<td>
@@ -63,9 +63,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	    <div>
 		<h3>Pact Pay</h3>
 		<p>Pact is an AI-powered marketplace that allows Africans to discover unique brands and amazing products and items. Pact also provides an easy-to-use platform for African merchants to launch, grow and scale through our marketplace.</p>
-		<p>- <b>Role - </b> Backend Engineer, NodeJS</p>
-		<p>- <b>Timeframe - </b>📆 November 2021 - May 2023</p>
-		<p>- <b>Tools - </b>🛠️ NodeJS, Express, NestJS, MongoDB</p>
+		<p><b>Role: </b> Backend Engineer, NodeJS</p>
+		<p><b>Timeframe: </b>📆 November 2021 - May 2023</p>
+		<p><b>Tools: </b>🛠️ NodeJS, Express, NestJS, MongoDB</p>
 	    </div>
 	</td>
 	<td>
@@ -82,9 +82,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	    <div>
 		<h3>Trac Trac Plus</h3>
 		<p>Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.</p>
-		<p>- <b>Role - </b> Frontend Engineer, NextJS</p>
-		<p>- <b>Timeframe - </b>📆 July 2023 till November 2023</p>
-		<p>- <b>Tools - </b>🛠️ React, TypeScript, Redux</p>
+		<p><b>Role: </b> Frontend Engineer, NextJS</p>
+		<p><b>Timeframe: </b>📆 July 2023 till November 2023</p>
+		<p><b>Tools: </b>🛠️ React, TypeScript, Redux</p>
 	    </div>
 	</td>
 	<td>
