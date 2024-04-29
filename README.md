@@ -23,35 +23,16 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 
 <hr/>
 
-## GitHub Statistics
+## Personal Statistics
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" /> |
 | ------------- | ------------- |
-<!-- <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
-    <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="Geeky's Github Stats"/>
-    <img style="flex: 1;" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
 
- <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact" alt="GeekyGeeky Wakatime stats" />
-</div>  -->
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&layout=compact&theme=merko&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> |
 | ------------- | ------------- |
-
-<!-- <div>
-	
-</div> -->
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekygeeky&layout=compact&langs_count=8&card_width=100vw" />
-</a> -->
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight)-->
 
 ## Professional Projects
 <table>
-<!-- Project -->
+<!-- Projects -->
   <body height="300%">
     <tr>
 	<th>Description</th>
@@ -136,7 +117,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<li>FInd components on the Figma Board</li>
 		</ul>
 		<a href="https://github.com/geekygeeky/figfinder">
-		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="" />
+		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
 		</a>
 	    </div>
 	</td>
@@ -154,11 +135,14 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	    <div>
 		<h3>Forbes web scraping using Telegram bot</h3>
 		<p>This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram</h4>
-		<h4>Key Feature</h4>
-		<ul><li>Get key information about top 100 Forbes Billionaires</li></ul>
-		<!-- <p>You can read more detailed information about the project on the <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">README.md</a></p>  -->
+		<h4>Key Features</h4>
+		<ul>
+			<li>Get information about the top 100 Forbes Billionaires</li>
+			<li>Sort requested information by networth</li>
+		</ul>
 		    <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
-			<img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="" />
+		 <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" 
+			/>
 		    </a>
 	    </div>
 	</td>
