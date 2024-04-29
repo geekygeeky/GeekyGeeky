@@ -24,11 +24,21 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <hr/>
 
 ## GitHub Statistics
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" /> |
+| ------------- | ------------- |
+<!-- <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
     <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="Geeky's Github Stats"/>
-	<!-- <img width="46%" src="https://streak-stats.demolab.com?user=Geekygeeky&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/> -->
     <img style="flex: 1;" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
-</div>
+
+ <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact" alt="GeekyGeeky Wakatime stats" />
+</div>  -->
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&layout=compact&theme=merko&hide_border=true" /> |
+| ------------- | ------------- |
+
+<!-- <div>
+	
+</div> -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
