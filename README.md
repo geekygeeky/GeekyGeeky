@@ -10,29 +10,34 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 
 ### Technologies I use often
 
-![image](https://img.shields.io/badge/Typescript-ddddee?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-ff0000?style=for-the-badge&logo=nestjs)
+![image](https://img.shields.io/badge/Typescript-ddddee?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
 ### More about me
 - 📆 Over five (5) years of experience creating software solutions
-- 🔭 Polyglot - I architect software using multiple technologies
 - 🌱 Exploring the world of Artificial Intelligence & Web3 💙
-- 🎉 Fun fact - I love listening to music, reading books & playing Table Tennis.
+- 🔭 Polyglot: I architect software using multiple technologies
+- ⚡ Fun fact: I love listening to music, reading books & playing Table Tennis.
 
 ### 📫 Get in touch with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.twitter.com/techytoby/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/techytoby/)
 
-
-<!-- 📫 How to reach me:
-- [**LinkedIn**](https://www.linkedin.com/in/devwraithe)
-- [**Twitter**](https://www.twitter.com/devwraithe) -->
 <hr/>
 
 ## GitHub Statistics
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko" alt="Geeky's Github Stats"/>
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 8px;">
+    <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="Geeky's Github Stats"/>
 	<!-- <img width="46%" src="https://streak-stats.demolab.com?user=Geekygeeky&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/> -->
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
+    <img style="flex: 1;" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
 </div>
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekygeeky&layout=compact&langs_count=8&card_width=100vw" />
+</a> -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight)-->
 
 ## Professional Projects
 <table>
@@ -159,7 +164,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 
 ## Connect with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/@geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@techytoby/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@techytoby/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
