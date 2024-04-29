@@ -34,10 +34,6 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 <!-- Projects -->
   <body height="300%">
-    <tr>
-	<th>Description</th>
-	<th width="22%">Links</th>
-    </tr>
     <!-- UtopiePay -->
     <tr>
 	<td>
@@ -48,9 +44,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<p><b>Timeframe: </b>📆 November 2023 - February 2024</p>
 		<p><b>Tools: </b>🛠️ React, TypeScript, Redux</p>
 	    </div>
-	</td>
-	<td>
-	  <div>
+		  <div>
 	      <a href="https://utopiepay.com">
   	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
 	      </a> 
@@ -67,9 +61,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<p><b>Timeframe: </b>📆 November 2021 - May 2023</p>
 		<p><b>Tools: </b>🛠️ NodeJS, Express, NestJS, MongoDB</p>
 	    </div>
-	</td>
-	<td>
-	  <div>
+		  <div>
 	      <a href="https://usepact.one">
   	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
 	      </a> 
@@ -86,9 +78,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<p><b>Timeframe: </b>📆 July 2023 till November 2023</p>
 		<p><b>Tools: </b>🛠️ React, TypeScript, Redux</p>
 	    </div>
-	</td>
-	<td>
-	  <div>
+		 <div>
  	      <a href="https://www.tractrac.co/">
   	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
 	      </a> 
