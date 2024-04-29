@@ -1,4 +1,4 @@
-### Hi there welcome to my space 👋
+## Welcome to my space 👋
 
 <p>
 I'm a versatile software engineer with a passion for crafting exceptional digital experiences. With a robust background spanning backend, frontend, and mobile development, I thrive on bringing innovative ideas to life through code.
@@ -8,12 +8,18 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 💼 My industry experience extends across fintech and e-commerce, where I've had the privilege of contributing to cutting-edge solutions that drive business growth and enhance user satisfaction.
 </p>
 
-## More about me
+### Technologies I use often
+
+![image](https://img.shields.io/badge/Typescript-ddddee?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-ff0000?style=for-the-badge&logo=nestjs)
+
+### More about me
 - 📆 Over five (5) years of experience creating software solutions
-- 🔭 Polyglot
+- 🔭 Polyglot - I architect software using multiple technologies
 - 🌱 Exploring the world of Artificial Intelligence & Web3 💙
 - 🎉 Fun fact - I love listening to music, reading books & playing Table Tennis.
-- 📫 Get in touch with me via [**LinkedIn**](https://www.linkedin.com/in/geekygeeky) or [**Twitter**](https://www.twitter.com/techytoby)
+
+### 📫 Get in touch with me
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.twitter.com/techytoby/)
 
 
 <!-- 📫 How to reach me:
@@ -24,7 +30,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 ## GitHub Statistics
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko" alt="Geeky's Github Stats"/>
-	 <img width="46%" src="https://streak-stats.demolab.com?user=Geekygeeky&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/>
+	<!-- <img width="46%" src="https://streak-stats.demolab.com?user=Geekygeeky&theme=radical&border_radius=04.5&date_format=j%20M%5B%20Y%5D" alt="Devwraithe's Github Streaks"/> -->
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks"/> 
 </div>
 
@@ -41,7 +47,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 	<td>
 	    <div>
 		<h3>Utopie Pay</h3>
-		<p>Utopie Technologies provides financial services to the unbanked and underbanked beyond borders with our Dollar & Naira based debit card and e-wallet.</p>
+		<p>Utopie Technologies provides financial services to the unbanked and underbanked beyond borders with our Dollar & Naira-based debit card and e-wallet.</p>
 		<p>- <b>Role - </b> Frontend Web Engineer, React</p>
 		<p>- <b>Timeframe - </b>📆 November 2023 - February 2024</p>
 		<p>- <b>Tools - </b>🛠️ React, TypeScript, Redux</p>
@@ -114,7 +120,9 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<li>Search for texts across Figma pages</li>
 		<li>FInd components on the Figma Board</li>
 		</ul>
-		<p>You can read more detailed information about the project on the <a href="https://github.com/geekygeeky/figfinder">README.md</a></p>  
+		<a href="https://github.com/geekygeeky/figfinder">
+		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="" />
+		</a>
 	    </div>
 	</td>
 	<td>
@@ -132,14 +140,17 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 		<h3>Forbes web scraping using Telegram bot</h3>
 		<p>This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram</h4>
 		<h4>Key Feature</h4>
-		<p>Get key information about top 100 Forbes Billionaires</p>
-		<p>You can read more detailed information about the project on the <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">README.md</a></p>  
+		<ul><li>Get key information about top 100 Forbes Billionaires</li></ul>
+		<!-- <p>You can read more detailed information about the project on the <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">README.md</a></p>  -->
+		    <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
+			<img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="" />
+		    </a>
 	    </div>
 	</td>
 	<td>
 	  <div>
 	      <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
-  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=forbes-billionaires-telegram-bot&theme=radical" alt="forbes-billionaires-telegram-bot" />
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=forbes-billionaires-telegram-bot&theme=radical" alt="Forbes-billionaires-telegram-bot" />
   	      </a>
 	  </div>
 	</td>
@@ -148,8 +159,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 
 ## Connect with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/techytoby/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/@geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@techytoby/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
