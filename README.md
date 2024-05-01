@@ -10,7 +10,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 
 ### Technologies I use often
 
-![image](https://img.shields.io/badge/Typescript-ddddee?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
 ### More about me
 - 📆 Over five (5) years of experience creating software solutions
