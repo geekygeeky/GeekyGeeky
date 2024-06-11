@@ -16,10 +16,10 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 - 📆 Over five (5) years of experience creating software solutions
 - 🌱 Exploring the world of Artificial Intelligence & Web3 💙
 - 🔭 Polyglot: I architect software using multiple technologies
-- ⚡ Fun fact: I love listening to music, reading books & playing Table Tennis.
+- ⚡ Leisure Activities: Listening to music & reading books.
 
 ### 📫 Get in touch with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/techytoby/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/sholaphp/)
 
 <hr/>
 
@@ -148,7 +148,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 
 ## Connect with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/techytoby/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@techytoby/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/shola.php/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/sholaphp/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@sholaphp/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
