@@ -1,16 +1,18 @@
-## Welcome to my space 👋
+## Welcome to My GitHub 👋
 
 <p>
-I'm a versatile software engineer with a passion for crafting exceptional digital experiences. With a robust background spanning backend, frontend, and mobile development, I thrive on bringing innovative ideas to life through code.
+I'm a versatile software engineer with a passion for crafting exceptional digital experiences. With a robust background spanning across backend, frontend and blockchain development, I thrive on bringing innovative ideas to life through code.
 
 🛠️ As a seasoned technical writer, I excel in distilling complex technical concepts into clear, accessible documentation. Specializing in API documentation and software documentation, I ensure seamless integration and user-friendly interfaces for developers and end-users alike.
-
-💼 My industry experience extends across fintech and e-commerce, where I've had the privilege of contributing to cutting-edge solutions that drive business growth and enhance user satisfaction.
 </p>
 
-### Technologies I use often
+### Proficient Programming Languages
 
-![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust)
+
+### Frequently Used Tech Stack
+
+![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
 ### More about me
 - 📆 Over five (5) years of experience creating software solutions
