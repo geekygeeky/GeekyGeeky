@@ -8,7 +8,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 
 ### Proficient Programming Languages
 
-![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust)
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust) ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php)
 
 ### Frequently Used Tech Stack
 
@@ -21,7 +21,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 - ⚡ Leisure Activities: Listening to music & reading books.
 
 ### 📫 Get in touch with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Send_a_DM-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/sholaphp/)
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/codewithgeeky/)
 
 <hr/>
 
@@ -150,7 +150,7 @@ I'm a versatile software engineer with a passion for crafting exceptional digita
 <table>
 
 ## Connect with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/shola.php/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/sholaphp/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@sholaphp/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
