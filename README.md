@@ -1,17 +1,42 @@
-# 🧑‍💻 [Your Name] - Developer & Content Creator
+## Senior Software Engineer • Creative Writer • Course Instructor
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and sharing my knowledge through various platforms. Here you’ll find some of the latest projects I’ve been working on, my blogs, and ways to stay in touch with me.
+**Welcome to my corner of the web!** 
+<br /><br />
+I’m a developer who enjoys exploring new technologies and sharing what I’ve learned along the way. <br /><br /> On this page, you’ll find a selection of my recent projects, the blogs I write, and ways to connect with me.
 
 ---
 
-## 👨‍💻 About Me
+## 👤 About Me
 
-I'm [Your Name], a software developer with a love for open-source contributions, tech blogs, and content creation. I specialize in [Your Specialty: e.g., web development, machine learning, mobile apps, etc.]. When I'm not coding, you can find me writing articles or managing my [newsletter/blog] where I discuss all things tech.
+I'm Olushola, a software engineer with a love for open-source contributions, tech blogs, and content creation. 
+<br /><br />
+I specialize in **technical and creative writing**, **web development**, **API design and development**, and **documentation design**. 
+<br/><br/>
+When I’m not coding, I’m usually writing articles or curating content for my [blog](https://techwithgeeky.com), where I explore all things tech.
 
-- **Location:** [Your Location]
-- **Languages:** [List of languages you know]
-- **Tools:** [Your favorite tools and technologies]
+### 🛠️ Proficient Programming Languages
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php)
 
+### 👨‍💻Frequently Used Tech Stack
+![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
+
+### 💻☁️  Development & Deployment Tools
+
+- **Version Control** - Git, GitHub, GitLab
+- **Containerization** - Docker
+- **CI/CD**- Jenkins, CircleCI, Github Actions
+- **IDE** – VSCode, PHPStorm, WebStorm
+- **Cloud Tools & Platforms** - AWS, Heroku, s3, VPS
+
+### 📝 Tech Writing Tools
+
+- **Docusaurus** – For creating and maintaining open-source documentation websites.
+- **Markdown** – Writing clean and structured documentation.
+- **Jekyll** – Static site generation for blog and project documentation.
+- **GitBook** – A collaborative platform for creating and hosting docs.
+- **Read the Docs** – A platform for hosting and versioning documentation.
+
+<!-- ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust) -->
 ---
 
 ## 📰 Newsletter
@@ -53,11 +78,11 @@ Feel free to contribute or explore!
 
 I love connecting with fellow developers and content creators! Feel free to reach out to me via:
 
-- 📧 Email: [your.email@example.com]
-- 🌐 Website: [Your Website or Blog](https://yourwebsite.com)
-- 🐦 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- 📬 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 📝 Dev.to: [@your_devto_profile](https://dev.to/yourusername)
+- 📧 Email: [hello[at]techwithgeeky.com]
+- 🌐 Website: [TechWithGeeky](https://techwithgeeky.com)
+- 🐦 X(Twitter): [@](https://twitter.com/iamgeekygeeky)
+- 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
+- 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
 
 ---
 
@@ -93,21 +118,20 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 
 ---
 
-Thanks for visiting my GitHub! Feel free to explore my projects and connect with me on social media. Let's code, share, and grow together!
+## 📫 Get in touch with me
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/iamgeekygeeky/) &nbsp; | &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;[![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/)
 
 ---
 
 > *"The only way to do great work is to love what you do." - Steve Jobs*
 
 
-<hr/>
+---
 
-## Personal Statistics
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" /> |
-| ------------- | ------------- |
+## ⏳ My WakaTime Insights
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> 
+
 
 ## Professional Projects
 <table>
@@ -226,8 +250,18 @@ Thanks for visiting my GitHub! Feel free to explore my projects and connect with
   </tbody>
 <table>
 
+## Personal Statistics
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> 
+
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" />
+
+<!-- | ------------- | ------------- | -->
+
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> 
+<!-- | ------------- | ------------- | -->
+
 ## Connect with me
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/)
+<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
