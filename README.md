@@ -53,7 +53,7 @@ Stay updated with my latest articles and insights by subscribing to my newslette
 
 Here are the blogs where I write about my experiences, tutorials, and latest discoveries in tech.
 
-- [Coding & Technical content](https://codewithgeeky.hashnode.dev/)
+- [Coding & Technical contents](https://codewithgeeky.hashnode.dev/)
   - Topics: Coding trends, Programming, Tutorials, Industry news, Projects
   - Published Articles: 10+
 - [Medium publication](https://tobyolushola.medium.com)
@@ -75,9 +75,8 @@ Here are some of my recent open-source projects on GitHub:
 ## 📞 How to Reach Me
 
 I love connecting with fellow developers and creators! Feel free to connect me via:
-
-- 📧 Email: [hello[at]techwithgeeky.com]
 <!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
+- 📧 Email: [hello[at]techwithgeeky.com]
 - 🐦 X(Twitter): [@Olushola](https://twitter.com/tobyolushola)
 - 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
 - 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
@@ -172,8 +171,8 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 		<p><b>Tools: </b>🛠️ NodeJS, Express, NestJS, MongoDB</p>
 	    </div>
 		  <div>
-	      <a href="https://usepact.one">
-  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
+	      <a href="#">
+  	        <img src="https://img.shields.io/badge/Discontinued-E0234E?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
 	      </a> 
 	  </div>
 	</td>
@@ -190,7 +189,7 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 	    </div>
 		 <div>
  	      <a href="https://www.tractrac.co/">
-  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="FigFinder" />
+  	       <img src="https://img.shields.io/badge/visit_platform-0A66C2?style=for-the-badge&logo=linkfire&logoColor=white" alt="TracTrac" />
 	      </a> 
 	  </div>
 	</td>
@@ -266,9 +265,9 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> 
 <!-- | ------------- | ------------- | -->
-
+<!--
 ## Connect with me
-<!-- [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) -->
+ [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
 
 
