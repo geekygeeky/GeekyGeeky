@@ -1,8 +1,8 @@
-## Senior Software Engineer • Creative Writer • Course Instructor
+## Software Engineer • Writer • Technical Content Developer
 
 **Welcome to my corner of the web!** 
 <br /><br />
-I’m a developer who enjoys exploring new technologies and sharing what I’ve learned along the way. <br /><br /> On this page, you’ll find a selection of my recent projects, the blogs I write, and ways to connect with me.
+Just like most developers, I write code but unlike many, I build solutions tailored to solve the pain point of product owners. <br /><br /> On this page, you’ll find a selection of my recent projects, the blogs I write, and ways to connect with me.
 
 ---
 
@@ -12,13 +12,13 @@ I'm Olushola, a software engineer with a love for open-source contributions, tec
 <br /><br />
 I specialize in **technical and creative writing**, **web development**, **API design and development**, and **documentation design**. 
 <br/><br/>
-When I’m not coding, I’m usually writing articles or curating content for my [blog](https://techwithgeeky.com), where I explore all things tech.
+When I’m not coding, I’m usually writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
 ### 🛠️ Proficient Programming Languages
 ![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php)
 
 ### 👨‍💻Frequently Used Tech Stack
-![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
+![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
 ### 💻☁️  Development & Deployment Tools
 
@@ -41,11 +41,11 @@ When I’m not coding, I’m usually writing articles or curating content for my
 
 ## 📰 Newsletter
 
-Stay updated with my latest projects, articles, and insights by subscribing to my newsletter!
+Stay updated with my latest articles and insights by subscribing to my newsletter!
 
-- **[Newsletter Title]** - A collection of curated tech news, tutorials, and personal projects.
+- **Olushola's MindStack** - A collection of curated life lesson, self-help topics and general knowledge.
   
-👉 [Subscribe Now](#)
+👉 [Subscribe Now](https://tobyolushola.substack.com)
 
 ---
 
@@ -53,12 +53,12 @@ Stay updated with my latest projects, articles, and insights by subscribing to m
 
 Here are the blogs where I write about my experiences, tutorials, and latest discoveries in tech.
 
-- [Blog 1 Name - e.g., "Tech Talks"](URL-to-your-blog)
-  - Topics: [Tech trends, Tutorials, Industry news]
-  - Published Articles: [X number of posts]
-- [Blog 2 Name - e.g., "Code Chronicles"](URL-to-your-blog)
-  - Topics: [Programming, Best practices, Projects]
-  - Published Articles: [Y number of posts]
+- [Coding & Technical content](https://codewithgeeky.hashnode.dev/)
+  - Topics: [Coding trends, Programming, Tutorials, Industry news, Projects]
+  - Published Articles: 10+
+- [Medium publication](https://tobyolushola.medium.com)
+  - Topics: [Programming, Tech trends, self-help, Best practices]
+  - Published Articles: 10+
 
 ---
 
@@ -66,25 +66,23 @@ Here are the blogs where I write about my experiences, tutorials, and latest dis
 
 Here are some of my recent open-source projects on GitHub:
 
-- [Project 1 Name](URL-to-project): A brief description of what this project is about.
-- [Project 2 Name](URL-to-project): A brief description of what this project is about.
-- [Project 3 Name](URL-to-project): A brief description of what this project is about.
-
-Feel free to contribute or explore!
+- [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for Stablecoin Payments and Cross-border B2B Transactions using Blockradar APIs.
+- [Social Media Grabber Bot](https://github.com/GeekyGeeky/social-media-grabber-bot): Telegram bot for TikTok and Instagram media download.
+- [CodeBin](https://github.com/GeekyGeeky/codebin): A web application written in Golang similar to pastebin & Github gist.
 
 ---
 
 ## 📞 How to Reach Me
 
-I love connecting with fellow developers and content creators! Feel free to reach out to me via:
+I love connecting with fellow developers and creators! Feel free to connect me via:
 
 - 📧 Email: [hello[at]techwithgeeky.com]
-- 🌐 Website: [TechWithGeeky](https://techwithgeeky.com)
-- 🐦 X(Twitter): [@](https://twitter.com/iamgeekygeeky)
+- 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com)
+- 🐦 X(Twitter): [@Olushola](https://twitter.com/tobyolushola)
 - 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
 - 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
 
----
+<!-- ---
 
 ## 📑 Latest Blog Posts
 
@@ -101,13 +99,14 @@ Here are my most recent blog posts:
 - [Project Name 1](#) - A brief description of the project.
 - [Project Name 2](#) - A brief description of the project.
 - [Learning/Experimenting with Topic] - A brief description of what you are learning or experimenting with at the moment.
-
+ -->
 ---
 
 ## 🎯 Goal
 
-I aim to continuously learn and grow, contribute to open-source projects, and help others through my writing. My current goal is to [State your current goal, like mastering a new tech stack, contributing more to open source, etc.].
+I aim to continuously learn and grow, contribute to open-source projects, and help others through my writing. My current goal is to publish over 100 articles and technical contents.
 
+<!--
 ---
 
 ## 📚 Fun Facts
@@ -115,11 +114,19 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 - I’m learning [a new technology or skill].
 - I enjoy [a hobby or interest].
 - I’ve worked on [a fun or interesting project].
-
+-->
 ---
 
 ## 📫 Get in touch with me
-[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/iamgeekygeeky/) &nbsp; | &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;[![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/)
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/)
+
+[![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/codewithgeeky/) 
+<!-- &nbsp; &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) -->
+
+
+
+<!-- &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) 
+ &nbsp;&nbsp;[![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) -->
 
 ---
 
