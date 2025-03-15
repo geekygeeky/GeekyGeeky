@@ -43,7 +43,7 @@ When I’m not coding, I’m usually writing articles or curating content for my
 
 Stay updated with my latest articles and insights by subscribing to my newsletter!
 
-- **Olushola's MindStack** - A collection of curated life lesson, self-help topics and general knowledge.
+**Olushola's MindStack** - A collection of curated life lesson, self-help topics and general knowledge.
   
 👉 [Subscribe Now](https://tobyolushola.substack.com)
 
@@ -54,10 +54,10 @@ Stay updated with my latest articles and insights by subscribing to my newslette
 Here are the blogs where I write about my experiences, tutorials, and latest discoveries in tech.
 
 - [Coding & Technical content](https://codewithgeeky.hashnode.dev/)
-  - Topics: [Coding trends, Programming, Tutorials, Industry news, Projects]
+  - Topics: Coding trends, Programming, Tutorials, Industry news, Projects
   - Published Articles: 10+
 - [Medium publication](https://tobyolushola.medium.com)
-  - Topics: [Programming, Tech trends, self-help, Best practices]
+  - Topics: Programming, Tech trends, self-help, Best practices
   - Published Articles: 10+
 
 ---
@@ -77,7 +77,7 @@ Here are some of my recent open-source projects on GitHub:
 I love connecting with fellow developers and creators! Feel free to connect me via:
 
 - 📧 Email: [hello[at]techwithgeeky.com]
-- 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com)
+<!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
 - 🐦 X(Twitter): [@Olushola](https://twitter.com/tobyolushola)
 - 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
 - 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
