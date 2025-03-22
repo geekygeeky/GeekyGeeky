@@ -20,7 +20,7 @@ I specialize in *content marketing*, [technical and creative writing](https://co
 ### 👨‍💻Frequently Used Tech Stack
 ![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
-> I’m a polyglot with expertise in the technologies above, delivering high-quality solutions across multiple platforms
+> I’m not limited to the technologies above; I choose the best tools to get the job done, building products across multiple platforms.
 
 <!-- ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; 
      &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
@@ -47,9 +47,9 @@ I specialize in *content marketing*, [technical and creative writing](https://co
 
 ## 📰 Newsletter
 
-Stay updated with my latest articles and insights by subscribing to my newsletter!
-
 **Olushola's MindStack** - A collection of curated life lesson, self-help topics and general knowledge.
+
+> Stay updated with my latest articles and insights by subscribing to my newsletter!
   
 👉 [Subscribe Now](https://tobyolushola.substack.com)
 
@@ -66,6 +66,10 @@ Here are the blogs where I write about my experiences, coding tutorials, and lat
 - [Medium Scribbles](https://tobyolushola.medium.com)
   - Topics: Tech trends, self-help, Best practices
   - Published Articles: 10+
+ 
+ - [TechCompass Publication](https://medium.com/techcompass)
+  - Tech trends and news.
+  - Programming guides and tutorials.
 
 ---
 
