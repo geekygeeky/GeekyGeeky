@@ -8,9 +8,9 @@ Just like most developers, I write code but unlike many, I build solutions tailo
 
 ## 👤 About Me
 
-I'm Olushola, a software engineer with a love for open-source contributions, tech blogs, and content creation. 
+I'm Olushola—a software engineer and product marketer who builds on the power of writing, turning complex technology into clear, valuable content through open-source and tech blogs.
 <br /><br />
-I specialize in **technical and creative writing**, **web development**, **API design and development**, and **documentation design**. 
+I specialize in *content marketing*, [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design**, and *documentation design*.
 <br/><br/>
 When I’m not coding, I’m usually writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
@@ -76,7 +76,7 @@ Here are some of my recent open-source projects on GitHub:
 
 I love connecting with fellow developers and creators! Feel free to connect me via:
 <!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
-- 📧 Email: [hello[at]techwithgeeky.com]
+<!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
 - 🐦 X(Twitter): [@Olushola](https://twitter.com/tobyolushola)
 - 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
 - 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
@@ -103,7 +103,7 @@ Here are my most recent blog posts:
 
 ## 🎯 Goal
 
-I aim to continuously learn and grow, contribute to open-source projects, and help others through my writing. My current goal is to publish over 100 articles and technical contents.
+I strive to keep learning, contribute more to open-source, and help others through my writing. My current goal is to publish 100+ articles and technical pieces.
 
 <!--
 ---
@@ -119,7 +119,7 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 ## 📫 Get in touch with me
 [![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/)
 
-[![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/codewithgeeky/) 
+[![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
 <!-- &nbsp; &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) -->
 
 
@@ -133,11 +133,6 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 
 
 ---
-
-## ⏳ My WakaTime Insights
-
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> 
-
 
 ## Professional Projects
 <table>
@@ -198,12 +193,36 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 <table>
 
 ## Open Source Projects
+
 <table>
+<!-- Projects -->
   <tbody height="300%">
     <tr>
-	<th>Description</th>
-	<th width="30%">Links</th>
+	<td>
+	    <div>
+		<h3>FigFinder</h3>
+		<p>A Figma plugin for searching texts, components, etc. easily</p>
+		<h4>Key Features</h4>
+		<ul>
+		<li>Search for texts across Figma pages</li>
+		<li>FInd components on the Figma Board</li>
+		</ul>
+		<a href="https://github.com/geekygeeky/figfinder">
+		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
+		</a>
+	    </div>
+	    <div>
+	      <a href="https://github.com/geekygeeky/figfinder">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
+  	      </a>
+	  </div>
+	</td>
     </tr>
+  </tbody>
+<table>
+	
+<table id="table-2">
+  <tbody height="300%">
     <!-- Figfinder -->
     <tr>
 	<td>
@@ -219,9 +238,7 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
 		</a>
 	    </div>
-	</td>
-	<td>
-	  <div>
+	    <div>
 	      <a href="https://github.com/geekygeeky/figfinder">
   	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
   	      </a>
@@ -244,9 +261,7 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
 			/>
 		    </a>
 	    </div>
-	</td>
-	<td>
-	  <div>
+	    <div>
 	      <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
   	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=forbes-billionaires-telegram-bot&theme=radical" alt="Forbes-billionaires-telegram-bot" />
   	      </a>
@@ -256,10 +271,13 @@ I aim to continuously learn and grow, contribute to open-source projects, and he
   </tbody>
 <table>
 
-## Personal Statistics
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> 
+## Personal Statistics and My WakaTime Insights ⏳
 
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" />
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> 
+
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> 
+
+<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" />
 
 <!-- | ------------- | ------------- | -->
 
