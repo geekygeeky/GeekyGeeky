@@ -117,9 +117,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 ---
 
 ## 📫 Get in touch with me
-[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/)
-
-[![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Connect_with_me-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp; [![image](https://img.shields.io/badge/Coding_and_tech_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
 <!-- &nbsp; &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) -->
 
 
@@ -180,7 +178,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 		<p>Tractrac Plus app is an innovative technology platform for providing access to mechanization services targeting smallholder farmers.</p>
 		<p><b>Role: </b> Frontend Engineer, NextJS</p>
 		<p><b>Timeframe: </b>📆 July 2023 till November 2023</p>
-		<p><b>Tools: </b>🛠️ React, TypeScript, Redux</p>
+		<p><b>Tools: </b>🛠️ NextJS, React, TypeScript, Redux</p>
 	    </div>
 		 <div>
  	      <a href="https://www.tractrac.co/">
@@ -196,71 +194,65 @@ I strive to keep learning, contribute more to open-source, and help others throu
 
 <table>
 <!-- Projects -->
-  <tbody height="300%">
-    <tr>
+  <tbody>
+ <!-- Figfinder -->
+     <tr>
 	<td>
 	    <div>
 		<h3>FigFinder</h3>
-		<p>A Figma plugin for searching texts, components, etc. easily</p>
+		<p>A Figma plugin for searching texts and components easily.</p>
 		<h4>Key Features</h4>
 		<ul>
-		<li>Search for texts across Figma pages</li>
-		<li>FInd components on the Figma Board</li>
+			<li>Search for texts across Figma pages</li>
+			<li>FInd components on the Figma Board</li>
 		</ul>
 		<a href="https://github.com/geekygeeky/figfinder">
 		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
 		</a>
 	    </div>
+		<br />
 	    <div>
 	      <a href="https://github.com/geekygeeky/figfinder">
   	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
   	      </a>
 	  </div>
 	</td>
-    </tr>
-  </tbody>
-<table>
-	
-<table id="table-2">
-  <tbody height="300%">
-    <!-- Figfinder -->
-    <tr>
+     </tr>
+      <tr>
 	<td>
 	    <div>
-		<h3>FigFinder</h3>
-		<p>A Figma plugin for searching texts, components, etc. easily</p>
-		<h4>Key Features</h4>
-		<ul>
-		<li>Search for texts across Figma pages</li>
-		<li>FInd components on the Figma Board</li>
-		</ul>
-		<a href="https://github.com/geekygeeky/figfinder">
+		<h3>Blockradar SDK</h3>
+		<p>The BlockRadar Node.js SDK for Stablecoin Payments and Cross-border B2B Transactions. This is an unofficial SDK written by developers for developers.</p>
+		<p><b>Tools: </b>🛠️ TypeScript, axios</p>
+	    </div>
+		 <div>
+ 	         <a href="https://github.com/geekygeeky/blockradar-sdk">
 		    <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
 		</a>
-	    </div>
-	    <div>
-	      <a href="https://github.com/geekygeeky/figfinder">
-  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=figfinder&theme=radical" alt="FigFinder" />
+	  </div>
+		<br />
+		<div>
+	      <a href="https://github.com/geekygeeky/blockradar-sdk">
+  	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=blockradar-sdk&theme=radical" alt="blockradar-sdk" />
   	      </a>
 	  </div>
 	</td>
     </tr>
-    <!-- ForbesTelegram bots -->
     <tr>
 	<td>
 	    <div>
-		<h3>Forbes web scraping using Telegram bot</h3>
-		<p>This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram</h4>
+		<h3>Forbes List Telegram bot</h3>
+		<p>This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram</p>
 		<h4>Key Features</h4>
 		<ul>
 			<li>Get information about the top 100 Forbes Billionaires</li>
 			<li>Sort requested information by networth</li>
 		</ul>
-		    <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
-		 <img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" 
-			/>
-		    </a>
+		<a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
+		<img src="https://img.shields.io/badge/readme.md-414141?style=for-the-badge&logo=markdown&logoColor=white" alt="Readme icon" />
+		</a>
 	    </div>
+		<br />
 	    <div>
 	      <a href="https://github.com/geekygeeky/forbes-billionaires-telegram-bot">
   	      <img src="https://github-readme-stats.vercel.app/api/pin/?username=geekygeeky&repo=forbes-billionaires-telegram-bot&theme=radical" alt="Forbes-billionaires-telegram-bot" />
@@ -268,22 +260,42 @@ I strive to keep learning, contribute more to open-source, and help others throu
 	  </div>
 	</td>
     </tr>
+
   </tbody>
 <table>
 
-## Personal Statistics and My WakaTime Insights ⏳
+   <!--  -->
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> 
+## GitHub Statistics and My WakaTime Insights ⏳
 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" /> 
+<table>
+  <tbody>
+     <tr>
+	<td>
+		<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=geekygeeky&layout=compact&theme=dracula" alt="GeekyGeeky's wakatime stats" /> 
+	</td>
+	     <td>
+		     <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" />
+	</td>
+      </tr>
+       <tr>
+	<td>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" />
+	</td>
+	     <td>
+		<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> 
+	</td>
+      </tr>
 
-<img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Geekygeeky&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Geeky's Github Streaks" />
+  </tbody>
+<table>
+
 
 <!-- | ------------- | ------------- | -->
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> 
 <!-- | ------------- | ------------- | -->
 <!--
+
 ## Connect with me
  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Follow_me-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.twitter.com/codewithgeeky/) &nbsp;&nbsp;&nbsp; [![image](https://img.shields.io/badge/Explore_videos-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geekygeeky&theme=tokyonight) -->
