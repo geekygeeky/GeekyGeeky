@@ -1,8 +1,8 @@
-## Software Engineer • Writer • Technical Content Developer
+## Software Engineer • Content Marketer • Technical Content Developer
 
 **Welcome to my corner of the web!** 
 <br /><br />
-Just like most developers, I write code but unlike many, I build solutions tailored to solve the pain point of product owners. <br /><br /> On this page, you’ll find a selection of my recent projects, the blogs I write, and ways to connect with me.
+I help product owners *scale monolithic applications* to handle thousands of users, reducing **costs** and improving response times.
 
 ---
 
@@ -11,30 +11,36 @@ Just like most developers, I write code but unlike many, I build solutions tailo
 I'm Olushola—a software engineer and product marketer who builds on the power of writing, turning complex technology into clear, valuable content through open-source and tech blogs.
 <br /><br />
 I specialize in *content marketing*, [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design**, and *documentation design*.
-<br/><br/>
-When I’m not coding, I’m usually writing articles or curating content for my [blog](https://tobyolushola.substack.com).
+<br/>
+> When I'm not coding, you can find me writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
 ### 🛠️ Proficient Programming Languages
-![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php)
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php) &nbsp; ![image](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity)
 
 ### 👨‍💻Frequently Used Tech Stack
-![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
+![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
-### 💻☁️  Development & Deployment Tools
+> I’m a polyglot with expertise in the technologies above, delivering high-quality solutions across multiple platforms
 
-- **Version Control** - Git, GitHub, GitLab
-- **Containerization** - Docker
-- **CI/CD**- Jenkins, CircleCI, Github Actions
-- **IDE** – VSCode, PHPStorm, WebStorm
-- **Cloud Tools & Platforms** - AWS, Heroku, s3, VPS
+<!-- ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; 
+     &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+-->
 
-### 📝 Tech Writing Tools
+---
 
-- **Docusaurus** – For creating and maintaining open-source documentation websites.
-- **Markdown** – Writing clean and structured documentation.
-- **Jekyll** – Static site generation for blog and project documentation.
-- **GitBook** – A collaborative platform for creating and hosting docs.
-- **Read the Docs** – A platform for hosting and versioning documentation.
+### 💻☁️ Development & Deployment Tools  
+- **Version Control**: Git, GitHub, GitLab  
+- **Containerization**: Docker  
+- **CI/CD**: Jenkins, CircleCI, GitHub Actions  
+- **IDE**: VSCode, PHPStorm, WebStorm  
+- **Cloud Platforms**: AWS, Heroku, s3, VPS  
+
+### 📝 Tech Writing Tools  
+- **Docusaurus**: Open-source docs websites  
+- **Markdown**: Clean, structured docs  
+- **Jekyll**: Static site generation  
+- **GitBook**: Collaborative docs platform  
+- **Read the Docs**: Hosting and versioning docs  
 
 <!-- ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust) -->
 ---
@@ -51,35 +57,37 @@ Stay updated with my latest articles and insights by subscribing to my newslette
 
 ## ✍️ Blogs I Manage
 
-Here are the blogs where I write about my experiences, tutorials, and latest discoveries in tech.
+Here are the blogs where I write about my experiences, coding tutorials, and latest discoveries in tech.
 
 - [Coding & Technical contents](https://codewithgeeky.hashnode.dev/)
   - Topics: Coding trends, Programming, Tutorials, Industry news, Projects
   - Published Articles: 10+
-- [Medium publication](https://tobyolushola.medium.com)
-  - Topics: Programming, Tech trends, self-help, Best practices
+
+- [Medium Scribbles](https://tobyolushola.medium.com)
+  - Topics: Tech trends, self-help, Best practices
   - Published Articles: 10+
 
 ---
 
-## 🔧 Projects
+## 🔧 Personal Projects
 
-Here are some of my recent open-source projects on GitHub:
+Here are some of my personal projects on GitHub:
 
-- [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for Stablecoin Payments and Cross-border B2B Transactions using Blockradar APIs.
+- [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for stablecoin payments and cross-border B2B transactions using [Blockradar](https://blockradar.co) APIs.
 - [Social Media Grabber Bot](https://github.com/GeekyGeeky/social-media-grabber-bot): Telegram bot for TikTok and Instagram media download.
 - [CodeBin](https://github.com/GeekyGeeky/codebin): A web application written in Golang similar to pastebin & Github gist.
+- [Notero](https://github.com/geekygeeky/notero-web-app): Web application for smart note-taking, task management & pomodoro.
+- [Forbes List Telegram Bot](https://github.com/geekygeeky/forbes-billionaires-telegram-bot): This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram.
 
 ---
 
-## 📞 How to Reach Me
+## ✉️ How to Reach Me
 
-I love connecting with fellow developers and creators! Feel free to connect me via:
+Let’s bring your next product idea to life and make it stand out:
 <!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
 <!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
-- 🐦 X(Twitter): [@Olushola](https://twitter.com/tobyolushola)
-- 📬 LinkedIn: [Olushola O.](https://linkedin.com/in/geekygeeky)
-- 📝 Dev.to: [@GeekyGeeky](https://dev.to/geekygeeky)
+- 📬 LinkedIn: [Discuss my product](https://linkedin.com/in/geekygeeky)
+- 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
 
 <!-- ---
 
@@ -116,8 +124,8 @@ I strive to keep learning, contribute more to open-source, and help others throu
 -->
 ---
 
-## 📫 Get in touch with me
-[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Follow_Me-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Connect_with_me-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents_IG-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
+## 📫 Connect with me
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Micro_blog-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Stay_updated-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents_IG-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
 <!-- &nbsp; &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) -->
 
 
@@ -238,7 +246,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 	  </div>
 	</td>
     </tr>
-    <tr>
+   <!-- <tr>
 	<td>
 	    <div>
 		<h3>Forbes List Telegram bot</h3>
@@ -259,7 +267,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
   	      </a>
 	  </div>
 	</td>
-    </tr>
+    </tr> -->
 
   </tbody>
 <table>
