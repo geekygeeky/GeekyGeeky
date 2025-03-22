@@ -60,16 +60,16 @@ I specialize in *content marketing*, [technical and creative writing](https://co
 Here are the blogs where I write about my experiences, coding tutorials, and latest discoveries in tech.
 
 - [Coding & Technical contents](https://codewithgeeky.hashnode.dev/)
-  - Topics: Coding trends, Programming, Tutorials, Industry news, Projects
-  - Published Articles: 10+
+	- Topics: Coding trends, Programming tutorials, Step-by-step project development guide.
+	- Published Articles: 10+
 
 - [Medium Scribbles](https://tobyolushola.medium.com)
-  - Topics: Tech trends, self-help, Best practices
-  - Published Articles: 10+
+	- Topics: Personal experiences, tech & coding, self-help, general education.
+	- Published Articles: 10+
  
  - [TechCompass Publication](https://medium.com/techcompass)
-  - Tech trends and news.
-  - Programming guides and tutorials.
+	 - Tech trends and news.
+	 - Programming guides and tutorials.
 
 ---
 
