@@ -51,7 +51,7 @@ I specialize in *content marketing*, [technical and creative writing](https://co
 
 > Stay updated with my latest articles and insights by subscribing to my newsletter!
   
-👉 [Subscribe Now](https://tobyolushola.substack.com)
+👉 [Subscribe For Free](https://tobyolushola.substack.com)
 
 ---
 
