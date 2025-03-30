@@ -76,9 +76,10 @@ Here are some of my projects on GitHub:
 Let’s bring your next product idea to life and make it stand out:
 <!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
 <!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
-- 📬 LinkedIn: [Discuss my product](https://linkedin.com/in/geekygeeky)
+- 📬 LinkedIn: [Let’s work together! Connect with me](https://linkedin.com/in/geekygeeky)
 - 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
 
+---
 
 ## ✍️ Blogs I Manage
 
@@ -95,9 +96,6 @@ Here are the blogs where I write about my experiences, coding tutorials, and the
  - [TechCompass Publication](https://medium.com/techcompass)
 	 - Tech trends and news.
 	 - Programming guides and tutorials.
-
----
-
 <!-- ---
 
 ## 📑 Latest Blog Posts
