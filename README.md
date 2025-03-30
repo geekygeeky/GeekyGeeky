@@ -2,7 +2,7 @@
 
 **Welcome to my corner of the web!** 
 <br /><br />
-I help product owners *scale monolithic applications* to handle thousands of users, reducing **costs** and improving response times.
+I help product owners *scale applications* to handle thousands of users, reducing **costs** and improving response times.
 
 ---
 
@@ -59,9 +59,30 @@ I specialize in *content marketing*, [technical and creative writing](https://co
 
 ---
 
+## 🔧 Personal Projects
+
+Here are some of my projects on GitHub:
+
+- [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for stablecoin payments and cross-border B2B transactions using [Blockradar](https://blockradar.co) APIs.
+- [Social Media Grabber Bot](https://github.com/GeekyGeeky/social-media-grabber-bot): Telegram bot for TikTok and Instagram media download.
+- [CodeBin](https://github.com/GeekyGeeky/codebin): A web application written in Golang similar to pastebin & Github gist.
+- [Notero](https://github.com/geekygeeky/notero): Web application for smart note-taking, task management & pomodoro.
+- [Forbes List Telegram Bot](https://github.com/geekygeeky/forbes-billionaires-telegram-bot): This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram.
+
+---
+
+## ✉️ How to Reach Me
+
+Let’s bring your next product idea to life and make it stand out:
+<!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
+<!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
+- 📬 LinkedIn: [Discuss my product](https://linkedin.com/in/geekygeeky)
+- 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
+
+
 ## ✍️ Blogs I Manage
 
-Here are the blogs where I write about my experiences, coding tutorials, and latest discoveries in tech.
+Here are the blogs where I write about my experiences, coding tutorials, and the latest discoveries in tech.
 
 - [Coding & Technical contents](https://codewithgeeky.hashnode.dev/)
 	- Topics: Coding trends, Programming tutorials, Step-by-step project development guide.
@@ -76,26 +97,6 @@ Here are the blogs where I write about my experiences, coding tutorials, and lat
 	 - Programming guides and tutorials.
 
 ---
-
-## 🔧 Personal Projects
-
-Here are some of my personal projects on GitHub:
-
-- [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for stablecoin payments and cross-border B2B transactions using [Blockradar](https://blockradar.co) APIs.
-- [Social Media Grabber Bot](https://github.com/GeekyGeeky/social-media-grabber-bot): Telegram bot for TikTok and Instagram media download.
-- [CodeBin](https://github.com/GeekyGeeky/codebin): A web application written in Golang similar to pastebin & Github gist.
-- [Notero](https://github.com/geekygeeky/notero-web-app): Web application for smart note-taking, task management & pomodoro.
-- [Forbes List Telegram Bot](https://github.com/geekygeeky/forbes-billionaires-telegram-bot): This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram.
-
----
-
-## ✉️ How to Reach Me
-
-Let’s bring your next product idea to life and make it stand out:
-<!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
-<!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
-- 📬 LinkedIn: [Discuss my product](https://linkedin.com/in/geekygeeky)
-- 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
 
 <!-- ---
 
