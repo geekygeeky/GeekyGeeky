@@ -1,4 +1,4 @@
-## Software Engineer • Content Marketer • Technical Content Developer
+## Software Engineer • Technical Content Developer
 
 **Welcome to my corner of the web!** 
 <br /><br />
@@ -8,21 +8,21 @@ I help product owners *scale applications* to handle thousands of users, reducin
 
 ## 👤 About Me
 
-I'm Olushola—a software engineer and product marketer who builds on the power of writing, turning complex technology into straightforward, valuable content through open-source and tech blogs.
+I'm Olushola—a software engineer and technical writer who builds on the power of writing, turning complex technology into straightforward, valuable content through open-source and tech blogs.
 <br /><br />
 I specialize in *content marketing*, [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
 <br/>
 > When I'm not coding, you can find me writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
 ### 🛠️ Proficient Programming Languages
-![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Golang-333333?style=for-the-badge&logo=go) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php) 
+![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php) 
 
 <!-- &nbsp; ![image](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity) -->
 
 ### 👨‍💻Frequently Used Tech Stack
 ![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
 
-> I’m not limited to the technologies above; I choose the best tools to complete the job, building products across multiple platforms.
+<!-- > I’m not limited to the technologies above; I choose the best tools to complete the job, building products across multiple platforms. -->
 
 <!-- ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; 
      &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
