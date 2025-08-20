@@ -2,41 +2,40 @@
 
 **Welcome to my corner of the web!** 
 <br /><br />
-I help product owners *scale applications* to handle thousands of users, reducing **costs** and improving response times.
+I help product owners build and **scale** applications, reduce operational **costs**, and improve response times.
+
+[![Schedule call](https://img.shields.io/badge/Schedule_call_📅-222?style=for-the-badge&logo=calendar)](https://calendly.com/tobyolushola/schedule)
 
 ---
-
-## 👤 About Me
-
-I'm Olushola—a software engineer and technical writer who builds on the power of writing, turning complex technology into straightforward, valuable content through open-source and tech blogs.
-<br /><br />
-I specialize in *content marketing*, [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
+I specialize in [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
 <br/>
 > When I'm not coding, you can find me writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
 ### 🛠️ Proficient Programming Languages
-![image](https://img.shields.io/badge/Typescript-dddddd?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust) &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php) 
+![image](https://img.shields.io/badge/Typescript-fff?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust)
+
+<!--  &nbsp; ![image](https://img.shields.io/badge/PHP-222222?style=for-the-badge&logo=php)  -->
 
 <!-- &nbsp; ![image](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity) -->
 
 ### 👨‍💻Frequently Used Tech Stack
-![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/Laravel-E1E1E1?style=for-the-badge&logo=laravel)
+![image](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql) &nbsp; ![image](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js) &nbsp; ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp;  ![image](https://img.shields.io/badge/React-444444?style=for-the-badge&logo=react) &nbsp; ![image](https://img.shields.io/badge/Solana-222?style=for-the-badge&logo=solana) 
 
 <!-- > I’m not limited to the technologies above; I choose the best tools to complete the job, building products across multiple platforms. -->
 
-<!-- ![image](https://img.shields.io/badge/Bun-AB7A49?style=for-the-badge&logo=bun) &nbsp; 
+<!--
      &nbsp; ![image](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 -->
 
 ---
 
 ### 💻 Development Tools  
-- **Version Control:** Git, GitHub, GitLab  
-- **IDE:** VSCode, PHPStorm, WebStorm  
+- **Version Control:** Git, GitHub
+- **IDE:** VSCode, RustRover, WebStorm  
 
 ### ☁️ Deployment Tools  
-- **Containerization:** Docker  
-- **CI/CD:** Jenkins, CircleCI, GitHub Actions  
+- **Containerization:** Docker, Podman
+- **CI/CD:** CircleCI, GitHub Actions  
 - **Cloud Platforms:** AWS, Heroku, S3, VPS, Nginx
 
 ### 📝 Tech Writing Tools  
@@ -66,7 +65,7 @@ Here are some of my projects on GitHub:
 - [BlockRadar Node.js SDK](https://github.com/GeekyGeeky/blockradar-sdk): SDK for stablecoin payments and cross-border B2B transactions using [Blockradar](https://blockradar.co) APIs.
 - [Social Media Grabber Bot](https://github.com/GeekyGeeky/social-media-grabber-bot): Telegram bot for TikTok and Instagram media download.
 - [CodeBin](https://github.com/GeekyGeeky/codebin): A web application written in Golang similar to pastebin & Github gist.
-- [Figfolio](https://github.com/geekygeeky/figfolio): Designer-focused portfolio platform that showcases their Figma activities, bio, and social links.
+<!-- - [Figfolio](https://github.com/geekygeeky/figfolio): Designer-focused portfolio platform that showcases their Figma activities, bio, and social links. -->
 - [Forbes List Telegram Bot](https://github.com/geekygeeky/forbes-billionaires-telegram-bot): This is a telegram bot that scrapes the Forbes Billionaires webpage and displays the result via Telegram.
 
 ---
@@ -74,8 +73,8 @@ Here are some of my projects on GitHub:
 ## ✉️ How to Reach Me
 
 Let’s bring your next product idea to life and make it stand out:
-<!-- - 🌐 Website: [Medium Scribbles](https://tobyolushola.medium.com) -->
-<!-- - 📧 Email: [hello[at]techwithgeeky.com] -->
+- 🌐 Website: [Digital Bio](https://olushola.site)
+- 📧 Email: [hello[at]olushola.site](mailto:hello@olushola.site)
 - 📬 LinkedIn: [Let’s work together! Connect with me](https://linkedin.com/in/geekygeeky)
 - 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
 
@@ -89,7 +88,7 @@ Here are the blogs where I write about my experiences, coding tutorials, and the
 	- Topics: Coding trends, Programming tutorials, Step-by-step project development guide.
 	- Published Articles: 10+
 
-- [Medium Scribbles](https://tobyolushola.medium.com)
+- [Medium Scribbles](https://blog.olushola.site)
 	- Topics: Personal experiences, tech & coding, self-help, general education.
 	- Published Articles: 10+
  
