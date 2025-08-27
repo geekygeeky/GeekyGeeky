@@ -297,7 +297,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=Geekygeeky&count_private=true&show_icons=true&hide_title=false&theme=merko&rank_icon=github&include_all_commits=true" alt="GeekyGeeky's Github Stats" />
 	</td>
 	     <td>
-		<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=8&layout=compact&theme=merko&hide_border=true" /> 
+		<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekygeeky&langs_count=4&layout=compact&theme=merko&hide_border=true" /> 
 	</td>
       </tr>
 
