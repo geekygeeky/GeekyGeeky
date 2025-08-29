@@ -280,7 +280,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 
    <!--  -->
 
-## GitHub Statistics and My WakaTime Insights ⏳
+## GitHub Stats and WakaTime Insights ⏳
 
 <table>
   <tbody>
