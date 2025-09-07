@@ -1,13 +1,12 @@
 ## Software Engineer • Technical Content Developer
 
-**Welcome to my corner of the web!** 
-<br /><br />
+<!-- **Welcome to my corner of the web!**  -->
 I help product owners build and **scale** applications, reduce operational **costs**, and improve response times.
-
+<br /><br />
 [![Schedule call](https://img.shields.io/badge/Schedule_call_📅-222?style=for-the-badge&logo=calendar)](https://calendly.com/tobyolushola/schedule)
 
 ---
-I specialize in [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
+Expert in [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
 <br/>
 > When I'm not coding, you can find me writing articles or curating content for my [blog](https://tobyolushola.substack.com).
 
