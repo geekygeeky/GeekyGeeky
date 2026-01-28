@@ -1,7 +1,7 @@
 ## Software Engineer • Technical Content Developer
 
 <!-- **Welcome to my corner of the web!**  -->
-I help product owners build and **scale** applications, reduce operational **costs**, and improve response times.ss
+I help product owners build and **scale** applications, reduce operational **costs**, and improve response times.
 <br /><br />
 [![Schedule call](https://img.shields.io/badge/Schedule_call_📅-222?style=for-the-badge&logo=calendar)](https://calendly.com/tobyolushola/schedule)
 
