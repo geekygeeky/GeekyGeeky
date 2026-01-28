@@ -8,7 +8,7 @@ I help product owners build and **scale** applications, reduce operational **cos
 ---
 Expert in [technical and creative writing](https://codewithgeeky.hashnode.dev), web development, **API design and development**, and *documentation design*.
 <br/>
-> When I'm not coding, you can find me writing articles or curating content for my [blog](https://tobyolushola.substack.com).
+> When I'm not coding, you can find me writing articles or curating content for my [blog](https://dotolushola.substack.com).
 
 ### 🛠️ Proficient Programming Languages
 ![image](https://img.shields.io/badge/Typescript-fff?style=for-the-badge&logo=typescript) &nbsp; ![image](https://img.shields.io/badge/Rust-92340b?style=for-the-badge&logo=rust)
@@ -75,7 +75,7 @@ Let’s bring your next product idea to life and make it stand out:
 - 🌐 Website: [Digital Bio](https://olushola.site)
 - 📧 Email: [hello[at]olushola.site](mailto:hello@olushola.site)
 - 📬 LinkedIn: [Let’s work together! Connect with me](https://linkedin.com/in/geekygeeky)
-- 🐦 X(Twitter): [Send a DM](https://twitter.com/tobyolushola)
+- 🐦 X(Twitter): [Send a DM](https://twitter.com/dotolushola)
 
 ---
 
@@ -87,7 +87,7 @@ Here are the blogs where I write about my experiences, coding tutorials, and the
 	- Topics: Coding trends, Programming tutorials, Step-by-step project development guide.
 	- Published Articles: 10+
 
-- [Medium Scribbles](https://blog.olushola.site)
+- [Medium Scribbles](https://notes.olushola.site)
 	- Topics: Personal experiences, tech & coding, self-help, general education.
 	- Published Articles: 10+
  
@@ -130,7 +130,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 ---
 
 ## 📫 Connect with me
-[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Micro_blog-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Stay_updated-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/tobyolushola/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents_IG-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
+[![image](https://img.shields.io/badge/Send_a_DM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) &nbsp; [![image](https://img.shields.io/badge/Micro_blog-eeeeee?style=for-the-badge&logo=x&logoColor=000000)](https://www.x.com/dotolushola/) &nbsp; [![image](https://img.shields.io/badge/Stay_updated-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/dotolushola/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents_IG-ffffff?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/codewithgeeky/) &nbsp; [![image](https://img.shields.io/badge/Coding_contents-ffffff?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@codewithgeeky/) 
 <!-- &nbsp; &nbsp; [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geekygeeky/) -->
 
 
@@ -171,7 +171,7 @@ I strive to keep learning, contribute more to open-source, and help others throu
 	<td>
 	    <div>
 		<h3>Pact Pay</h3>
-		<p>Pact is an AI-powered marketplace that allows Africans to discover unique brands and amazing products and items. Pact also provides an easy-to-use platform for African merchants to launch, grow and scale through our marketplace.</p>
+		<p>Pact is an AI-powered marketplace that allows Africans to discover unique brands and amazing products and items. Pact also provides an easy-to-use platform for African merchants to launch, grow, and scale through our marketplace.</p>
 		<p><b>Role: </b> Backend Engineer, NodeJS</p>
 		<p><b>Timeframe: </b>📆 November 2021 - May 2023</p>
 		<p><b>Tools: </b>🛠️ NodeJS, Express, NestJS, MongoDB</p>
