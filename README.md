@@ -53,7 +53,7 @@ Expert in [technical and creative writing](https://codewithgeeky.hashnode.dev), 
 
 > Stay updated with my latest articles and insights by subscribing to my newsletter!
   
-👉 [Subscribe For Free](https://tobyolushola.substack.com)
+👉 [Subscribe For Free](https://dotolushola.substack.com)
 
 ---
 
